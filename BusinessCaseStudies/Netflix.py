@@ -12,3 +12,4 @@ class Netflix(CaseStudy):
 
     def display_data(self):
         print(self.data)
+

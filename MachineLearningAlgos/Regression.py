@@ -4,4 +4,4 @@ class CustomRegression(object):
     pass
 
     def __init__(self):
-        pass
+        self.weights = None
